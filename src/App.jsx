@@ -33,7 +33,7 @@ export default function App() {
       id: 4,
       name: "Website Resmi",
       desc: "Produk & informasi lengkap",
-      url: "#",
+      url: "https://www.hazzfarm.me/",
       icon: <Globe className="w-6 h-6" />,
       active: true,
     },
@@ -90,7 +90,7 @@ export default function App() {
           >
             <div className="absolute inset-0 bg-green-500 rounded-full blur-xl opacity-40 animate-pulse"></div>
             <img 
-              src="/Logo Hazz Farm.png" 
+              src="/logo-hazz-farm.jpg"
               alt="HazzFarm Logo" 
               className="w-28 h-28 rounded-full object-cover border-4 border-zinc-800 relative z-10 bg-white"
             />
