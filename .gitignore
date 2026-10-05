@@ -1,0 +1,14 @@
+# Dependensi & hasil build — jangan pernah di-commit
+node_modules/
+dist/
+.vercel/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
